@@ -1,0 +1,12 @@
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\bin\Debug\Ornek_Proje_3.exe.config
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\bin\Debug\Ornek_Proje_3.exe
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\bin\Debug\Ornek_Proje_3.pdb
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.csprojAssemblyReference.cache
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.Form1.resources
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.Properties.Resources.resources
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.csproj.GenerateResource.cache
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.csproj.CoreCompileInputs.cache
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.exe
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.pdb
+C:\Users\rumy\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.exe
+C:\Users\rumy\Desktop\Nesne Tabanlı Programlama\udemy\Ornek_Proje_3\Ornek_Proje_3\obj\Debug\Ornek_Proje_3.pdb
